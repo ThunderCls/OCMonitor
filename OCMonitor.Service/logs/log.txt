@@ -1,0 +1,5 @@
+2022-05-06 23:16:41.737 -04:00 [INF] Starting up the service
+2022-05-06 23:30:17.332 -04:00 [INF] Starting up the service
+2022-05-06 23:30:17.371 -04:00 [INF] Initiating monitoring
+2022-05-06 23:31:16.371 -04:00 [INF] Starting up the service
+2022-05-06 23:31:16.400 -04:00 [INF] Initiating monitoring
